@@ -69,7 +69,7 @@
     <div>
         <h2><hr><a name="awards"></a>Awards</h2>
             <ul>
-                <li><p> ICML-2019 Travel Award </p></li>
+                <li><p>  </p></li>
             </ul>
     </div>
 
