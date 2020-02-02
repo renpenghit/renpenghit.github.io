@@ -26,11 +26,10 @@
     <table class="imgtable"><tr valign="top">
         <!--<td><img src="xingruiyu.jpg" alt="Xingrui Yu" /></td>-->
         <td align="left">
-            <p><span style="font-size: 110%"><b>Xingrui Yu</b></span></p>
             <p>
                 Professor <br>
                 <a href="https://ocean.upc.edu.cn" target="_blank">College of Oceanography and Space Informatics </a>,<br>
-                <a href="https://www.upc.edu.cn/" target="_blank">China University of Petroleum (East China) (UTS)</a>
+                <a href="https://www.upc.edu.cn/" target="_blank">China University of Petroleum (East China)</a>
             </p>
 
             <p>
@@ -47,7 +46,7 @@
  My current research interest:
 </ul>
 <ul>
-<li><p>Weakly-supervised Learning</p></li>
+<li><p>Machine Learning, Remote Sensing, Marine Information Processing, etc. </p></li>
 </ul>
 </div>
 
